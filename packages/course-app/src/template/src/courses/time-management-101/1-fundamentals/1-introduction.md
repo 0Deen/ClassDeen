@@ -16,8 +16,7 @@ const increment = () => count++;
 
 ## Images
 
-![classroomio-brand-customisations](https://assets.cdn.clsrio.com/blog/brand-customisations.png)
-_ClassroomIO Brand Customisations_
+_ClassDeen Brand Customisations_
 
 Time is our most valuable and non-renewable resource. In today's fast-paced world, effective time management isn't just a nice-to-have skill—it's essential for success in both professional and personal life.
 
