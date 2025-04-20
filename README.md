@@ -1,5 +1,5 @@
 
-## ✨ About ClassDeen.com
+## ✨ About ClassDeen.com(not deployed)
 
 
 Streamline training for everyone with ClassDeen.com. Our all-in-one platform empowers bootcamps, educators, and businesses to manage training programs easily. With our platform, anyone can run multiple classes and cohorts all from one UI. The application is mobile-first, which means that students can access your lesson materials from any device.
